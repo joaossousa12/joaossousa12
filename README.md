@@ -1,16 +1,21 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/11jacPItBsJDLa/source.gif" width = 125 height = 100>
+  <h2> :man_technologist: About Me:</h2>
+</div>
 
-<!--
-**joaossousa12/joaossousa12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="intro" align="center">
+  <p> I study at <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a> of the University of Porto, and i'm doing a Bachelor's Degree in Informatics and Computing Engineering (<a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">LEIC</a>). </p>
+</div>
 
-Here are some ideas to get you started:
+<div id="stats" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaossousa12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaossousa12&theme=dark&include_all_commits=false&count_private=true&layout=compact">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="languages_tools" align="center">
+  <img src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
+  <img src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
+  <img src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
+</div>
+
+
