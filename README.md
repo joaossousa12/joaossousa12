@@ -8,7 +8,7 @@
 </div>
 
 <div id="stats" align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaossousa12&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaossousa12&include_all_commits=true&count_private=true&show_icons=true&theme=dark">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaossousa12&theme=dark&include_all_commits=false&count_private=true&layout=compact&hide=CMake,MAKEFILE">
 </div>
 
