@@ -12,7 +12,7 @@
 </div>
 
 <div id="languages_tools" align="center">
-  <img src="https://img.shields.io/badge/Operating System-Linux-informational?style=flat&logo=Linux&logoColor=white&color=EC8D5E">
+  <img src="https://img.shields.io/badge/Operating System-MacOS-informational?style=flat&logo=Apple&logoColor=white&color=FFFFFF">
   <img src="https://img.shields.io/badge/Tools for coding -Git-informational?style=flat&logo=Git&logoColor=white&color=4293F2">
   <img src="https://img.shields.io/badge/Editors-Visual Studio Code -informational?style=flat&logo=visual-studio-code&logoColor=white&color=42F29E">
 </div>
