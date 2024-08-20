@@ -4,7 +4,7 @@
 </div>
 
 <div id="intro" align="center">
-  <p> Student at <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a> of the University of Porto, and i'm doing a Bachelor's Degree in Informatics and Computing Engineering (<a href="https://sigarra.up.pt/feup/pt/cur_geral.cur_view?pv_ano_lectivo=2022&pv_origem=CUR&pv_tipo_cur_sigla=L&pv_curso_id=22841">LEIC</a>). </p>
+  <p> Student at <a href="https://sigarra.up.pt/feup/pt/web_page.inicial">FEUP</a> of the University of Porto, and i'm doing a Master's Degree in Informatics and Computing Engineering (<a href="https://sigarra.up.pt/feup/en/CUR_GERAL.CUR_VIEW?pv_ano_lectivo=2024&pv_origem=CUR&pv_tipo_cur_sigla=M&pv_curso_id=22862">MEIC</a>). </p>
 </div>
 
 <div id="stats" align="center">
